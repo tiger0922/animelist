@@ -1,0 +1,11 @@
+.row > div {
+    padding: 20px;
+    margin: 10px
+}
+
+.img-thumbnail {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px
+}
