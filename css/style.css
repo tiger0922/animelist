@@ -1,0 +1,29 @@
+.container {
+    margin-top:75px
+}
+.row > div {
+    padding: 20px;
+}
+.home img {
+    width: 200px;
+    height: 275px
+}
+.anime li {
+    font-family: Helvetica
+}
+.anime > li > p {
+    text-indent: -2em;
+}
+
+@media screen and (min-width: 900px){
+    .anime li {
+        font-size: 24px
+    }
+}
+
+.img-thumbnail {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
